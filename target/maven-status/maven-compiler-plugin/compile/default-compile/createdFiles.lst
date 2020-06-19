@@ -1,0 +1,6 @@
+com\springboot\SpringBootAngularApplication.class
+com\springboot\service\UserServiceImpl.class
+com\springboot\service\UserService.class
+com\springboot\controller\UserCrudRestApi.class
+com\springboot\repository\UserRepository.class
+com\springboot\model\User.class
