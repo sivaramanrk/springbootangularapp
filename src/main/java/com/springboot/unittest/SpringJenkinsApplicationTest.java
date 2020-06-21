@@ -19,7 +19,7 @@ public class SpringJenkinsApplicationTest {
 	
 	@GetMapping("/userlist")
 	@CrossOrigin(origins = "http://localhost:4200")
-	public String getAllCustomers() {
+	public  getAllCustomers() {
 		logger.info("test method is running...");
 		return "Hi Hello";
 	}
